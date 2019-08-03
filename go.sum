@@ -2,3 +2,5 @@ github.com/julienschmidt/httprouter v1.2.0 h1:TDTW5Yz1mjftljbcKqRcrYhd4XeOoI98t+
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/scott-x/sql v0.0.0-20190802094559-304038292221 h1:yYjH9AvqnxMGvjB1iSGr5hjX47WKbxuWZhNMrp7BXrM=
 github.com/scott-x/sql v0.0.0-20190802094559-304038292221/go.mod h1:ONyIxP0HHR3PUwO4zZkJYvfyXJAHFjgt+J8lXPev1hc=
+github.com/scott-x/sql v0.0.0-20190803021020-b563e8654679 h1:oUE5tGznih0uwnoqxm4ESZkJNW5Kbd4GD/e3i2aDtQw=
+github.com/scott-x/sql v0.0.0-20190803021020-b563e8654679/go.mod h1:t+laBvaaLNxD3/AnK99Q6yUrb4U+9sws3qeL4o9uzSc=
